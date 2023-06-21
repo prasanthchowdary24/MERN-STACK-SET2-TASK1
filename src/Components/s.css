@@ -1,0 +1,21 @@
+.s{
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    border-color: black;
+}
+.bod{
+    margin: 10% 20% 10% 20%;
+    padding: 20px;
+    border: 2px solid black;
+}
+.h{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+.result{
+    text-align: start;
+    color: grey;
+    font-size: larger;
+}
